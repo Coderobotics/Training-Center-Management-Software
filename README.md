@@ -3,6 +3,8 @@
 
 ASP.Net based Training/ Tuition Center Management Software. Simplify Training is a powerful tool for your growing Institute Business. It is a unique solution for Educational Training Centers or Institutes. Institute Management System has Dashboard, Fee Management, Student Management, Staff Management, SMS/ E-Mail alerts, Reports and more. Simplify Training is web based software to aid your institutes Administrative Management needs. Our CRM is capable of managing Enquiry Details, Payment Details, Student Details, Faculty Details, Accounts Details, Student Fees Details, Online Exam, Ranking & Results, Online Fee Payment, Online Material Purchase and etc. with high efficiency in a very easy and user friendly manner. It also provides detailed and accurate report for managing your institute the way you want.
 
+<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/simplifytraining_3.jpg">
+
 <b>Training/ Tuition Center Management covers the following key features:</b>
 
 <ul>
