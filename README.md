@@ -16,7 +16,7 @@ ASP.Net based Training/ Tuition Center Management Software. Simplify Training is
 <li>E-Mail/ SMS Communication</li>
 </ul>
 <b>More details and download link:</b>
-<b>https://www.aspscriptsonline.com/product/asp.net-training-center-management-software</b>
+<b>https://www.aspscriptsonline.com/product/asp.net-training-center-management-software</b><br>
 
 If you're looking for readymade php scripts
 https://www.phpscriptsonline.com/products
